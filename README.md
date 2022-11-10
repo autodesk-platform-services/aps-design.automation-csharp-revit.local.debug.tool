@@ -16,7 +16,7 @@ See [step-by-step video](https://www.youtube.com/watch?v=i0LJ9JOpKMQ)
 
 ## Prerequisites
 
-1. **Forge Account**: Learn how to create a Forge Account, activate your subscription, and create an app at [this tutorial](http://learnforge.autodesk.io/#/account/). 
+1. **APS Account**: Learn how to create a APS Account, activate your subscription, and create an app at [this tutorial](http://aps.autodesk.com/tutorials/#/account/). 
 2. **Visual Studio**: [2019 or newer](https://visualstudio.microsoft.com/)
 3. **.NET Framework** basic knowledge with C#
 4. **Revit** 2019: required for compiling plugin changes
@@ -52,13 +52,13 @@ Starting Revit:
 
 > To run different addin, repeat the setup steps above.
 
-> Currently, the DesignAutomationHandler doesn't support multiple input files.  (This feature is supported by Design Automation on Forge.)
+> Currently, the DesignAutomationHandler doesn't support multiple input files.  (This feature is supported by Design Automation on APS.)
 
 # Further Reading
 
 Documentation:
 
-- [Design Automation v3](https://forge.autodesk.com/en/docs/design-automation/v3/developers_guide/overview/)
+- [Design Automation v3](https://aps.autodesk.com/en/docs/design-automation/v3/developers_guide/overview/)
 
 Desktop APIs:
 
@@ -66,8 +66,8 @@ Desktop APIs:
 
 Blog articles:
 
-- [Learn Forge tutorial for Revit](https://forge.autodesk.com/blog/introducing-design-automation-tutorial-autocad-inventor-revit-engines)
-- [Design Automation - Debug Revit plugin locally](https://forge.autodesk.com/blog/design-automation-debug-revit-plugin-locally)
+- [Learn APS tutorial for Revit](https://aps.autodesk.com/blog/introducing-design-automation-tutorial-autocad-inventor-revit-engines)
+- [Design Automation - Debug Revit plugin locally](https://aps.autodesk.com/blog/design-automation-debug-revit-plugin-locally)
 
 ## License
 
