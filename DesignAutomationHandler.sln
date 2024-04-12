@@ -5,8 +5,6 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignAutomationHandler2019", "DesignAutomationHandler2019\DesignAutomationHandler2019.csproj", "{1A041F1A-AFB9-4988-92E1-477A862E505A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignAutomationHandler2018", "DesignAutomationHandler2018\DesignAutomationHandler2018.csproj", "{EFB263DA-A3C0-4789-9D73-F74351DCC26D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignAutomationHandler2020", "DesignAutomationHandler2020\DesignAutomationHandler2020.csproj", "{A642E951-16DB-468F-BCEF-EF7408FAA47D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignAutomationHandler2021", "DesignAutomationHandler2021\DesignAutomationHandler2021.csproj", "{40965980-8504-4481-878F-F26C47C0479C}"
@@ -17,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignAutomationHandler2023
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignAutomationHandler2024", "DesignAutomationHandler2024\DesignAutomationHandler2024.csproj", "{C1A60A17-12E0-4DBD-8405-49533762F027}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignAutomationHandler2025", "DesignAutomationHandler2025\DesignAutomationHandler2025.csproj", "{ECC4830D-BE8F-4D95-93B8-072758BE3076}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignAutomationHandler2025", "DesignAutomationHandler2025\DesignAutomationHandler2025.csproj", "{ECC4830D-BE8F-4D95-93B8-072758BE3076}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		{1A041F1A-AFB9-4988-92E1-477A862E505A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A041F1A-AFB9-4988-92E1-477A862E505A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A041F1A-AFB9-4988-92E1-477A862E505A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EFB263DA-A3C0-4789-9D73-F74351DCC26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFB263DA-A3C0-4789-9D73-F74351DCC26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFB263DA-A3C0-4789-9D73-F74351DCC26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFB263DA-A3C0-4789-9D73-F74351DCC26D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A642E951-16DB-468F-BCEF-EF7408FAA47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A642E951-16DB-468F-BCEF-EF7408FAA47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A642E951-16DB-468F-BCEF-EF7408FAA47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
