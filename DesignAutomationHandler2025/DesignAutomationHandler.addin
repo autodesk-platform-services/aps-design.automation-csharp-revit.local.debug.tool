@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>DesignAutomationHandler</Name>
+    <Assembly>.\DesignAutomationHandler.dll</Assembly>
+    <AddInId>BF3B3023-7FDB-4643-BB0E-BCB5DEAD6698</AddInId>
+    <FullClassName>DesignAutomationHandler.DesignAutomationHandlerApp</FullClassName>
+    <Text>DesignAutomationHandler</Text>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Description>"DesignAutomationHandler For Local Debugging of D4R"</Description>
+    <VendorId>Autodesk</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
